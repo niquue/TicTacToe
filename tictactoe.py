@@ -15,7 +15,6 @@ def print_board():
     print("---------")
 
 
-
 print_board()
 
 

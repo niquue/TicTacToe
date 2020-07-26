@@ -13,7 +13,7 @@ def print_board():
     print("| " + str_list[3] + " " + str_list[4] + " " + str_list[5] + " |")
     print("| " + str_list[6] + " " + str_list[7] + " " + str_list[8] + " |")
     print("---------")
-
+#
 
 print_board()
 
